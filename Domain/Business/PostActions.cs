@@ -7,7 +7,7 @@ namespace Domain.Business
     {
         public void ViewPost()
         {
-
+            
         }
 
         public void CreatePost(int id, string postedby, string content)
